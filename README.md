@@ -3,6 +3,8 @@
 Jupyter notebooks for simulating the behavior of the arduino-timer
 library.
 
+Click here to launch these notebooks in [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kpfleming/arduino-timer-simulations/main).
+
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
      href="http://creativecommons.org/publicdomain/zero/1.0/">
